@@ -1,2 +1,2 @@
-# llm-browser
-Browser specified for LLMs
+# webbrowser-env
+WebBrowser environment for RL tasks
